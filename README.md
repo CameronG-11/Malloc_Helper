@@ -1,5 +1,5 @@
 # Malloc Helper
-## Intro:
+## Introduction:
 A malloc wrapper class to better utilize and understand dynamic memory allocation in c. Feel free to use this program with any program you would like, but make sure to use only the included wrapper functions and none of the original functions or else the novel functions will not work at all. 
 
 A trivial program included as the main.c file as an example.
