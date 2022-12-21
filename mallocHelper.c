@@ -32,6 +32,8 @@ int init(), grow();
 
 void *malloc2(int size);
 
+void *realloc2(void *prev_subblock, int size);
+
 void free2(), freeall(), printpayload(void* subblock), printblock(void* subblock), printblocks();
 
 B *getblock(void* subblock);
